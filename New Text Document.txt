@@ -10,3 +10,5 @@ I'm a beautiful girl.
 pleng is fat
 I'm a beautiful girl.
 
+commit from new branch 'miDev3'
+commit 2 from new branch 'miDev3'
